@@ -9,6 +9,7 @@ We understand some users may not have access to PC for downloading BNLC, and ori
 ## Is it safe to use?
 - Other than NSIS, the only additional program we use is official SteamCMD binary. You can find the digital signature of Valve from SteamCMD binary.
 - You can review the source code from this repository, and build yourself to comply your need.
+- Despite that, it's strongly recommended to enable Steam Guard on Steam Mobile App.
 - If you're paranoid enough that you even don't trust NSIS, we also provide manual method.
 
 ## Build
